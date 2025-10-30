@@ -9,8 +9,10 @@
 **Key findings:** 
 
 - EPL spends the most across the top 5 leagues with 30% of all spendings occuring between the 9 clubs that have not been relegated
-- Serie A has the most number of teams that have remained in the top flight across the 10 years at 11 clubs
-- 
+- Serie A has the most number of teams that have remained in the top flight across the 10 years (11 clubs)
+- Serie A has the highest number of teams with an average finish of 5th or better (5 clubs)
+- La liga is the only league with more than one team with an average position higher than 2nd (Barcelona and Real Madrid) with both of this clubs amongst the top 5 in total cost across the top 5 leagues.
+- EPL has the highest nhumber of teams in the top 10 for cost per point (5 clubs)
 
 
 **Dashboard Overview:**
