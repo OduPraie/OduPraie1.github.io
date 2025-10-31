@@ -15,4 +15,10 @@
 - EPL has the highest nhumber of teams in the top 10 for cost per point (5 clubs)
 
 
-**Dashboard Overview:**
+**Dashboard Overview:** The dashboard includes the following:
+
+- Clubs present across 10 season table: Contains a list of clubs along with thier wage bill, transfer fee, total cost, point tally, cost per point and average position. The list of clubs can be adjusted using the league slicer and the range of values for the rest using the season slicer
+- Total cost across leagues pie chart: This chart shows the percent of total cost across the 5 leagues. Interaction with the league slicer has be disabled for functionality but still works with the season slicer if invetigation for total cost across a certain period is required.
+- Average postion of clubs line chart: Visual representation of clubs average finish across the league and seasons.
+- League slicer : Filter the clubs based on thier respective leagues
+- Season slicer : Filters the data based on season
