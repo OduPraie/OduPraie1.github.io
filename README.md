@@ -22,3 +22,5 @@
 - Average postion of clubs line chart: Visual representation of clubs average finish across the league and seasons.
 - League slicer : Filter the clubs based on thier respective leagues
 - Season slicer : Filters the data based on season
+
+![CCOS](CCOS.png)(https://github.com/OduPraie/OduPraie1.github.io/blob/main/Top%205%20league%20clubs%20costs%20of%20operations.pbix)
